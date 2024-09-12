@@ -15,9 +15,10 @@ LinkedIn - [Anjana Wickramaarachchi](https://www.linkedin.com/in/anjana-wickrama
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=LabVIEW&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001Anjana&layout=compact&theme=radical)
 
 <!--
 **2001Anjana/2001Anjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
