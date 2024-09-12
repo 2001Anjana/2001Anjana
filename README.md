@@ -10,7 +10,7 @@ LinkedIn - [Anjana Wickramaarachchi](https://www.linkedin.com/in/anjana-wickrama
 
 ### Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001Anjana&layout=compact&theme=radical)
 
 <!--
 **2001Anjana/2001Anjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
