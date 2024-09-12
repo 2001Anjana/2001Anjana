@@ -9,6 +9,13 @@ Email - [2001wickramaarachchi@gmail.com](mailto:2001wickramaarachchi@gmail.co)
 LinkedIn - [Anjana Wickramaarachchi](https://www.linkedin.com/in/anjana-wickramaarachchi-4b8653245/)
 
 ### Languages Used
+### Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=LabVIEW&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001Anjana&layout=compact&theme=radical)
 
